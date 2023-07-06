@@ -5,9 +5,7 @@ It include only the computer science department student data of some of the well
 Total Records = 19670
 
 It Contain follwowing Columns
-* Name of Student
-* Father Name
-* Enrollment No
+* ID Student
 * Department
 * Degree Program
 * Year of Study
